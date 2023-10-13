@@ -1,3 +1,6 @@
 .prob
 .json
 .cph/
+
+*.json
+.vscode/
